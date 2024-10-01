@@ -4,10 +4,7 @@ This project aims to predict the burned area of forest fires using meteorologica
 
 Objectives:
 
-- Implement machine learning models including:
--- Support Vector Machines (SVM)
--- Random Forests
--- Neural Networks
+- Implement machine learning models including: Support Vector Machines (SVM), Random Forests & Neural Networks
 - Conduct feature engineering and data preprocessing
 - Evaluate model performance on both the original and reduced feature sets
 - Analyze and compare the results to draw meaningful conclusions
