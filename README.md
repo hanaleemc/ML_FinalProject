@@ -1,6 +1,5 @@
 Overview:
-
-This project aims to predict the burned area of forest fires using meteorological and spatial data. It is part of my final project for the Machine Learning I course at the University of Potsdam. The project explores various machine learning models to assess their effectiveness in predicting the log-transformed area burned by forest fires.
+This project aims to predict the burned area of forest fires using 517 wildfire events using the Fire Weather Index (FWI). It is part of my final project for the Machine Learning I course at the University of Potsdam. The project explores various machine learning models to assess their effectiveness in predicting the log-transformed area burned by forest fires.
 
 Objectives:
 
